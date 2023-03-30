@@ -7,7 +7,7 @@
 </h1>
 
 ### About The Project 
-Bounce up and fly up through matching colors! In the game, you must have quick reactions to score points.
+Cube Ninja is a dangerously addictive skill game in which the object is simply to slice up as much cubes as you can. Ninja hates cubes, so the game’s training content is to slice up those cubes thrown out from the bottom of screen.
 
 ### Built With
 This section should list any major languages used to create project.Here are a few examples.<br>
