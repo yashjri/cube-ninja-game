@@ -11,6 +11,6 @@ Bounce up and fly up through matching colors! In the game, you must have quick r
 
 ### Built With
 This section should list any major languages used to create project.Here are a few examples.<br>
-*1)HTML5 <br>
-*2)CSS3 <br>
-*3)Javascript<br>
+1)HTML5 <br>
+2)CSS3 <br>
+3)Javascript<br>
